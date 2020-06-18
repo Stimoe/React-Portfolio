@@ -1,0 +1,160 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("../../assets/images/background-840887_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.inside-about-card-div {
+  margin: auto;
+  background: rgba(5, 5, 48, 0.46);
+  /* position: static; */
+  margin-top: 5%;
+  -webkit-border-radius: 5%;
+  -moz-border-radius: 5%;
+  border-radius: 5%;
+  padding: 20px;
+  width: 600px;
+  height: 300px;
+  border: solid black 5px;
+  display: flex;
+  flex-direction: row;
+  background-color: #777a86;
+  /* background-repeat: no-repeat;
+  background-size: auto; */
+}
+.inside-about-div {
+  width: 100%;
+  height: 100%;
+}
+.top-div {
+  display: flex;
+  flex-direction: row;
+  height: 70%;
+  width: 100%;
+}
+.left-div {
+  width: 30%;
+
+  height: 100%;
+}
+.my-image-div {
+  height: 100%;
+  width: 100%;
+}
+.my-image {
+  height: 100%;
+  width: 100%;
+}
+.right-div {
+  width: 70%;
+  height: 100%;
+}
+.inside-right-div {
+  margin: auto;
+  margin-top: 2%;
+  font-size: 110%;
+  color: white;
+  width: 90%;
+  height: 90%;
+  text-align: center;
+}
+.inside-right-about-div-top {
+  height: 50%;
+}
+.inside-right-about-div-bottom {
+  margin-top: 2%;
+  height: 50%;
+}
+.bottom-div {
+  padding-top: 2%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 30%;
+  width: 100%;
+}
+.github-link-div {
+  width: 30%;
+}
+.gitHub-link {
+  height: 100%;
+  width: 100%;
+}
+.linkedIn-link-div {
+  width: 30%;
+}
+.lower-lnside-about-div {
+  width: 100%;
+  height: 100%;
+}
+.upper-about-div {
+  text-align: center;
+  font-size: 110%;
+  color: white;
+  width: 70%;
+  height: 100%;
+  margin: auto;
+}
+.languages-about-title {
+  padding-top: 5%;
+  height: 30%;
+  font-size: 140%;
+}
+.languages-about {
+  font-size: 110%;
+  height: 100%;
+}
+.lower-about-div {
+  text-align: center;
+  font-size: 110%;
+  margin: auto;
+  color: white;
+  width: 70%;
+  height: 50%;
+}
+.interest-title-div {
+  height: 30%;
+  font-size: 150%;
+  border-bottom: 3px solid #e1660f;
+}
+.interest-div {
+  height: 70%;
+}
+.interest-top {
+  padding-top: 2%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 50%;
+  width: 100%;
+}
+.interest-bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 2%;
+  height: 50%;
+  width: 100%;
+}
+.interest-div-one {
+  /* color: red; */
+  height: 95%;
+  width: 40%;
+}
+.interest-div-two {
+  /* color: green; */
+  height: 95%;
+  width: 40%;
+}
+.interest-div-three {
+  height: 95%;
+  /* color: purple; */
+  width: 40%;
+}
+.interest-div-four {
+  /* color: yellow; */
+  height: 95%;
+  width: 40%;
+}
